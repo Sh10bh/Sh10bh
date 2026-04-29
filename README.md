@@ -1,3 +1,12 @@
+# Hi, I'm Shubh Gupta 👋
+
+🎓 Pre-final year CS undergrad @ VIT Bhopal  
+🤖 Specialising in Machine Learning & Full-Stack ML  
+📄 Published researcher in real-time computer vision systems  
+📍 Bhopal, India  
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -35,3 +44,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sh10bh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubhgupta874@gmail.com)
