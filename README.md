@@ -1,5 +1,5 @@
 # Hi, I'm Shubh Gupta 👋
-🎓 Pre-final year CS undergrad @ VIT Bhopal  
+🎓 Pre-final year CSE undergrad @ VIT Bhopal  
 🤖 Specialising in Machine Learning & Full-Stack ML  
 📄 Published researcher in real-time computer vision systems  
 📍 Bhopal, India  
