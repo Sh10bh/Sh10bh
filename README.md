@@ -1,8 +1,9 @@
 # Hi, I'm Shubh Gupta 👋
-🎓 Final year CSE undergrad @ VIT Bhopal  
-🤖 Specialising in Full-Stack ML & AI Engineering
-📄 Published researcher in real-time computer vision systems  
-📍 Bhopal, India  
+
+🎓 Final year CSE undergrad @ VIT Bhopal<br>
+🤖 Focused on Full-Stack ML & AI Engineering<br>
+📄 Author of 2 SSRN preprints (YOLOv8 object detection, network coding)<br>
+📍 Bhopal, India
 
 ---
 
